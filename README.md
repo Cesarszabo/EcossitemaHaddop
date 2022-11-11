@@ -2,7 +2,7 @@
 
 Código criado para utilização junto a plataforma da Digital Innovation One
 
-##Criação do cluster no Google Cloud Platform(GCP)
+## Criação do cluster no Google Cloud Platform(GCP)
 
  - Criado uma conta free no GCP 
  - Ativar o serviço DataProc(digitar na barra de pesquisa do GCP 'Dataproc')
